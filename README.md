@@ -15,4 +15,6 @@ executable/ffmpeg.exe - таже самая библиотека для обра
 
 executable/Example Files/ - в данной папке представлены тестовые материалы для проверки работы exe-файла 
 
+Видео-демонстрация: https://youtu.be/gGSBwbWa9zw
+
 
